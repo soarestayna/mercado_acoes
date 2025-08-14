@@ -1,0 +1,3 @@
+Informações sobre os dados 
+
+Os  dados  foram  extraídos do  portal  da  Nasdaq (https://www.nasdaq.com/), projeto realizado através do Curso Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy.

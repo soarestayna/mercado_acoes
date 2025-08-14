@@ -1,0 +1,22 @@
+Informações sobre a bolsa de valores:
+
+A bolsa de valores permite que as empresas vendam frações de suas ações, chamadas ações, a investidores, que se tornam proprietários parciais. Os acionistas recebem uma parcela dos lucros da empresa na forma de dividendos.
+
+O valor das ações pode flutuar dependendo de fatores como o desempenho financeiro da empresa, mudanças na economia ou no setor e decisões políticas ou regulatórias.
+
+Os investidores compram e vendem ações por meio de corretoras ou plataformas de negociação online.
+
+A bolsa de valores é considerada um indicador da saúde econômica de um país e é usada como forma de investimento por pessoas físicas e instituições financeiras em todo o mundo.
+
+Os dados da NASDAQ incluem várias colunas, cada uma oferecendo informações específicas sobre o preço e o volume das negociações das ações negociadas no mercado. Significado das colunas abaixo: 
+
+ 
+Coluna "Date" (Data): Esta coluna fornece a data em que a ação foi negociada na NASDAQ. 
+
+Coluna " Closet/Last" (Fechamento, Último preço): Esta coluna oferece o preço de fechamento da ação no final do dia de negociação. O preço de fechamento é o último preço pelo qual a ação foi negociada naquele dia. 
+
+Coluna "Volume": Esta coluna indica o número total de ações negociadas durante o dia. Isso pode incluir várias transações feitas por um ou mais investidores. 
+
+Coluna "Open" (Preço de abertura): Esta coluna indica o preço de abertura da ação no início do dia de negociação. O preço de abertura é o primeiro preço pela qual a ação foi negociada no dia. 
+
+Coluna "High" (Preço máximo) ou  "Low" (Preço mínimo): Estas colunas indicam o preço máximo mais alto e o preço mínimo mais baixo que a ação foi negociada naquele dia.
